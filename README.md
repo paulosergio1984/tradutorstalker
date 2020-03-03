@@ -1,0 +1,2 @@
+# tradutorstalker
+traduçao do stalcker
